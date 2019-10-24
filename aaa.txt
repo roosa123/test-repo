@@ -1,0 +1,1 @@
+to jest plik z dowolnym tekstem wewn¹trz
